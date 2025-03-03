@@ -40,7 +40,7 @@ The analysis uses data from a relational database containing the following table
 ## Data Access
 
 You can access the GloBox database using the following connection URL:
-postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox
+"postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox"
 
 
 
