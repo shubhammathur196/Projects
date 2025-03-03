@@ -33,7 +33,7 @@ The analysis uses data from a relational database containing the following table
   - `dt`: Date of purchase activity.
   - `device`: The device type used for the purchase (I = iOS, A = android).
   - `spent`: The purchase amount in USD.
-- **Below are the groups in images which shows that the left group had no banners for advertisement and the right one had it.
+- **Below are the groups in images which shows that the left group had no banners for advertisement and the right one had it.**
 ![A/B Testing Overview](images/abtesting.jpg)
 
 
